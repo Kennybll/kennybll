@@ -4,7 +4,8 @@
   "dependencies": {
     "express": "*",
     "socket.io": "*",
-    "mongojs": "*"
+    "mongojs": "*",
+    "nodemon": "*"
   },
   "devDependencies": {
     "gulp": "*",
@@ -13,6 +14,6 @@
     "request": "*"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   }
 }

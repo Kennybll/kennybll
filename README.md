@@ -1,6 +1,6 @@
 # Hello, I'm Kenny Bennett 👋
 
-I am a full stack developer. I've been working with the React and Nodejs Ecosystem for a while now. My passion is writing code, I live and breath code. Not really, but I wish. I'm also always looking for new  
+I am a full stack developer. I've been working with the React and Nodejs Ecosystem for a while now. My passion is writing code, I live and breath code. Not really, but I wish. I'm also always looking for new things to learn.
 
 ## Knowledgeable in:
 - JavaScript
@@ -24,7 +24,7 @@ I am the lead full stack developer at [Instra.AI](https://github.com/Instra-AI).
 
 I am also a junior getting my bachelor's in computer science.
 
-I also spend my free time playing Valorant.
+Finally I spend my free time playing Valorant.
 
 #### Links
 https://www.linkedin.com/in/kennybll/

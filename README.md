@@ -30,4 +30,5 @@ Finally I spend my free time playing Valorant and competing on my college's espo
 
 #### Links
 [LinkedIn](https://www.linkedin.com/in/kennybll/)
+
 [Project - F & B Wholesale](https://www.fbwholesale.biz)

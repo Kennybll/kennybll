@@ -8,19 +8,9 @@ I am a full stack developer. I've been working with the React and Nodejs Ecosyst
 - TypeScript
 - React
 - React Native
-- Redux
-- React Navigation/React Router
-- Express
-- Electron
 - AWS
-- AWS CDK
-- Terraform
-- NX Monorepo Tooling
-- Blockchain
 
 ### What I'm Doing Currently
-
-I am the lead full stack developer at [Instra.AI](https://github.com/Instra-AI).
 
 I also consult for [F & B Wholesale](https://www.fbwholesale.biz) creating their website and auction system.
 

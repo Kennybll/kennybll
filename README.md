@@ -1,6 +1,6 @@
 # Hello, I'm Kenny Bennett 👋
 
-I am a full stack developer. I've been working with the React and Nodejs Ecosystem for a while now. My passion is writing code, I live and breath code. Not really, but I wish. I'm also always looking for new things to learn.
+Full Stack Developer with 5 years of experience in web and mobile application development. Proficient in React, TypeScript, and AWS, with a proven track record of developing scalable, high-performance applications. Led various teams and managed projects from idea to deployment. Seeking a challenging role to leverage my skills and have the ability to learn and grow.
 
 ## Knowledgeable in:
 - JavaScript
@@ -13,10 +13,6 @@ I am a full stack developer. I've been working with the React and Nodejs Ecosyst
 ### What I'm Doing Currently
 
 I also consult for [F & B Wholesale](https://www.fbwholesale.biz) creating their website and auction system.
-
-I am a senior getting my bachelor's in computer science.
-
-Finally I spend my free time playing Valorant and competing on my college's esports team.
 
 #### Links
 [LinkedIn](https://www.linkedin.com/in/kennybll/)
